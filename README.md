@@ -22,6 +22,7 @@ Nothing else in src/ is required.
 If you’re using Tailwind (recommended)
 
 📁 REQUIRED PUBLIC FILES (IMPORTANT)
+
 1️⃣ PWA Manifest
 📄 public/manifest.json
 
@@ -37,6 +38,7 @@ Used for Add to Home Screen
 can be any icon you want (emoji-style works great)
 
 4️⃣ Sound Effects (USED BY GAME)
+
 📁 public/sounds/
 public/
  └─ sounds/
