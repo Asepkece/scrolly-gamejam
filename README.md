@@ -34,7 +34,9 @@ If you’re using Tailwind (recommended)
 📄 public/sw.js
 
 3️⃣ App Icons (PWA)
+
 📄 public/icon-192.png
+
 📄 public/icon-512.png
 
 Square PNG
