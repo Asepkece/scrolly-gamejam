@@ -50,9 +50,13 @@ can be any icon you want (emoji-style works great)
 public/
  
  └─ sounds/
+ 
      ├─ tap.mp3
+     
      ├─ bonus.mp3
+     
      ├─ trap.mp3
+     
      └─ level.mp3
 
 | File        | Used when   |
