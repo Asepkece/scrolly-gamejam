@@ -48,6 +48,7 @@ can be any icon you want (emoji-style works great)
 
 📁 public/sounds/
 public/
+ 
  └─ sounds/
      ├─ tap.mp3
      ├─ bonus.mp3
