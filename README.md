@@ -53,6 +53,7 @@ public/
      ├─ bonus.mp3
      ├─ trap.mp3
      └─ level.mp3
+
 | File        | Used when   |
 | ----------- | ----------- |
 | `tap.mp3`   | Normal hit  |
