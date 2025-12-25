@@ -36,6 +36,7 @@ If you’re using Tailwind (recommended)
 3️⃣ App Icons (PWA)
 📄 public/icon-192.png
 📄 public/icon-512.png
+
 Square PNG
 Transparent or solid background
 Used for Add to Home Screen
