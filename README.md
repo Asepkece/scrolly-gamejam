@@ -76,14 +76,23 @@ Android install prompt
 Proper status bar color
 
 🧩 WHAT CHANGED FROM DEFAULT TEMPLATE
+
 ✅ Added
 GameSandbox.tsx (game logic + UI)
+
 PWA support (manifest.json, sw.js)
+
 Sound assets
+
 App icons
+
 Service worker registration in index.tsx
 
+
 ❌ Removed / Not Used
+
 No routing
+
 No external state library
+
 No backend required
