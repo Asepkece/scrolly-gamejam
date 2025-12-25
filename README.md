@@ -61,6 +61,7 @@ public/
 | `level.mp3` | Level clear |
 
 ✅ REQUIRED index.html CHANGES
+
 📄 public/index.html (or root HTML file)
 
 This enables:
